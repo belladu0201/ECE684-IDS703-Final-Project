@@ -8,6 +8,7 @@ There are three people in the group: Xiaoyu Chen, Beibei Du, Chixuan Zhang.
 We are interested in the well-known personality test: MBTI, which stands for Myers–Briggs Type Indicator. Although there are some bias toward this personality test, we want to use Natural Language Processing knowledge to see if the prediction is significant. 
 
 # Introduction
+There are in total of 16 personalities based on the MBTI.
 [Describe the MBTI test from research paper by the end of 11/23].
 
 # Research Question
@@ -22,6 +23,8 @@ In this dataset, we have 8675 observations and 2 columns. The two columns are `t
 We will use the language of Python for this project. The relevant tools include: Git, Github, EDA(matplotlib, seaborn, altair, pandas), NLP(TBD), Report(Overleaf(latex), Google slides).
 
 # Approaches (Algorithms)
+
+1. We can use language modeling to predict the category of personality based on the words that distingusih the most from the other categories.
 
 # Results
 
