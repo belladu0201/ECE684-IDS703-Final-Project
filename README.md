@@ -8,7 +8,9 @@ There are three people in the group: Xiaoyu Chen, Beibei Du, Chixuan Zhang.
 We are interested in the well-known personality test: MBTI, which stands for Myers–Briggs Type Indicator. Although there are some bias toward this personality test, we want to use Natural Language Processing knowledge to see if the prediction is significant. 
 
 # Data
+We decided to use the data from Kaggle: [MBTI Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type).
 
+In this dataset, we have 8675 observations and 2 columns. The two columns are `type` and `posts`.
 # Tools
 
 # Approaches (Algorithms)
