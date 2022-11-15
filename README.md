@@ -2,7 +2,7 @@
 NLP Final Project FA22
 
 # Team Members
-There are three people in the group: Xiaoyu Chen, Beibei Du, Chixuan Zhang.
+There are three people in the group: Xiaoyu Chen, Beibei Du, Xianchi Zhang.
 
 # Motivation
 We are interested in the well-known personality test: MBTI, which stands for Myers–Briggs Type Indicator. Although there are some bias toward this personality test, we want to use Natural Language Processing knowledge to see if the prediction is significant. 
