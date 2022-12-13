@@ -25,6 +25,9 @@ We will use the language of Python for this project. The relevant tools include:
 # Approaches (Algorithms)
 
 1. We can use language modeling to predict the category of personality based on the words that distingusih the most from the other categories.
+2. Since we are required to have 2 generative models and 2 discriminative models, we consider the following models:
+- Generative:Generative Adversarial Networks (GANs), Hidden Markov Models (HMMs)
+- Discriminative: SVMs, Logistic Regression, Neural Networks, etc
 
 # Results
 
