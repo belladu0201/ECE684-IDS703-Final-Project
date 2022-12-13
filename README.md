@@ -1,5 +1,6 @@
 # ECE684-IDS703-Final-Project
-NLP Final Project FA22
+## NLP Final Project FA22: Predicting Personality Type with Social Media Posts: A Machine Learning Approach to MBTI Classification
+<img src="https://i.redd.it/eogag5y764z71.png" width="600" height="400">
 
 # Team Members
 There are three people in the group: Xiaoyu Chen, Beibei Du, Xianchi Zhang.
