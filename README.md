@@ -13,8 +13,8 @@ There are in total of 16 personalities based on the MBTI.
 [Describe the MBTI test from research paper by the end of 11/23].
 
 # Research Question
-1. Do the extroverted people have less posts tha introverted people?
-2. [TBD]
+1. Is it possible to predict a user's MBTI type based on their posts?
+2. Do the extroverted people have less posts tha introverted people? (Optional)
 
 # Data
 We decided to use the data from Kaggle: [MBTI Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type).
@@ -37,6 +37,7 @@ We will use the language of Python for this project. The relevant tools include:
 - Bert: 60+%
 
 # Discussion
+Through our four algorithms: Naive Bayes, SVM, MLP, and Bert, three of them (except Naive Bayes) have been strong methods to predict the personality types based on the text data: posts. However, there is still room for improvement in the performance of these models or potential more powerful models, and further research and development is necessary to expand the potential applications. Ultimately, this project showcases the power of utilizing machine learning algorithms (both discriminative and generative models) to delve deeper into the complexities of personality traits (MBTI or beyond it) and their connections to online posts and other formats of speech.
 
 # Reference
 [ChatBoxes & MBTI](https://chatbotslife.com/write-a-post-and-i-will-tell-you-who-you-are-5e0e1b74aa8b)
