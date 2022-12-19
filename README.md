@@ -31,6 +31,10 @@ We will use the language of Python for this project. The relevant tools include:
 - Discriminative: SVMs, Logistic Regression, Neural Networks, etc
 
 # Results
+- Naive Bayes: 21%
+- SVM: 66%
+- MLP: 65%
+- Bert: 60+%
 
 # Discussion
 
