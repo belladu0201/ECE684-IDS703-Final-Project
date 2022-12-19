@@ -11,7 +11,8 @@ Run download_data.py.
 ### Clean data
 Run explore.ipynb
 ### Train model （Highly discouraged to try and this spend more than 20 hours）
-fine-tune.py 
+fine-tune.py   
+
 **you can also play with the model we trained and push to hub https://huggingface.co/Shunian/mbti-classification-roberta-base-aug**
 ### Play with model
 - watch demo_gif.mp4
