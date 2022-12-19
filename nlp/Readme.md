@@ -12,7 +12,9 @@ Run explore.ipynb
 fine-tune.py
 ### Play with model
 - watch demo_gif.mp4
-- run app.py 
-* you can skip the download and clean data process by using data i already uploaded https://huggingface.co/datasets/echodpp/mbti-cleaned
-* you can also play with the model we trained and push to hub https://huggingface.co/Shunian/mbti-classification-roberta-base-aug
+- run app.py   
+
+**you can skip the download and clean data process by using data i already uploaded https://huggingface.co/datasets/echodpp/mbti-cleaned**. 
+
+**you can also play with the model we trained and push to hub https://huggingface.co/Shunian/mbti-classification-roberta-base-aug**
 
