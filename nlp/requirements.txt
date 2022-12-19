@@ -1,0 +1,23 @@
+pytest==7.2.0
+pylint==2.15.5
+black==22.10.0
+click>=8.0
+kaggle==1.5.12
+numpy==1.23.5
+pandas==1.5.2
+matplotlib==3.6.2
+matplotlib-inline==0.1.6
+transformers==4.25.1
+datasets==2.7.1
+evaluate==0.4.0
+#deep learning
+torch==1.12.1
+torchvision==0.13.1
+scikit-learn==1.1.2
+sentencepiece==0.1.97
+git+https://github.com/makcedward/nlpaug.git
+git+https://github.com/PrithivirajDamodaran/Parrot_Paraphraser.git
+protobuf==3.20.0
+gradio==3.13.0
+altair==4.2.0
+tensorboardX==2.5.1
