@@ -1,8 +1,8 @@
 ## This is a fine-tuned version of roberta-base on the cleaned real-world dataset.
-### set up vm
+### Set up vm
 - python3 -m venv venv
 - source venv/bin/activate
-### install requirements
+### Install requirements
 pip install -r requirements.txt
 ### Download data
 Run download_data.py
