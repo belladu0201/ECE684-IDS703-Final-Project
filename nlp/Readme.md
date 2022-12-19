@@ -4,11 +4,11 @@
 - source venv/bin/activate
 ### Install requirements
 pip install -r requirements.txt
-### Download data
+### Download data (Very large data set not recommended)
 Run download_data.py
 ### Clean data
 Run explore.ipynb
-### Train model
+### Train model （Highly discouraged to try and this spend more than 20 hours）
 fine-tune.py
 ### Play with model
 - watch demo_gif.mp4
